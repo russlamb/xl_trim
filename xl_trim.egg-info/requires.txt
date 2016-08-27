@@ -1,7 +1,0 @@
-pandas
-pytz
-six
-python-dateutil
-numpy
-xlrd
-xlwt
