@@ -1,0 +1,1 @@
+This module is for opening and trimming leading header and/or data rows from an Excel file.

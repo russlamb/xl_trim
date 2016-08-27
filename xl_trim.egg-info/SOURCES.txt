@@ -1,0 +1,8 @@
+README.rst
+xl_trim.py
+xl_trim.egg-info/PKG-INFO
+xl_trim.egg-info/SOURCES.txt
+xl_trim.egg-info/dependency_links.txt
+xl_trim.egg-info/not-zip-safe
+xl_trim.egg-info/requires.txt
+xl_trim.egg-info/top_level.txt
